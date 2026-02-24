@@ -1,0 +1,19 @@
+Ejercicio: Sentadilla | Peso: 30 kg
+Ejercicio: press plano | Peso: 40 kg
+Ejercicio: curl de biceps | Peso: 15 kg
+Ejercicio: Laterales | Peso: 10 kg
+Ejercicio: sentadilla bulgara | Peso: 30 kg
+Ejercicio: posteriores | Peso: 10 kg
+Ejercicio: gemelos | Peso: 30 kg
+Ejercicio: abs | Peso: 0 kg
+Ejercicio: femoral | Peso: 20 kg
+Ejercicio: aductores | Peso: 30 kg
+Ejercicio: press militar | Peso: 30 kg
+Ejercicio: tibiales | Peso: 10 kg
+Ejercicio: press inclinado | Peso: 30 kg
+Ejercicio: press declinado | Peso: 30 kg
+Ejercicio: dominadas | Peso: 0 kg
+Ejercicio: abdominales crunch | Peso: 0 kg
+Ejercicio: curl martillo | Peso: 15 kgEjercicio: flexiones diamante | Peso: 5 kg
+Ejercicio: sentadillas con salto | Peso: 30 kgEjercicio: fondos | Peso: 10.0 kg
+Ejercicio: Elevacion de hombros | Peso: 30.0 kg
